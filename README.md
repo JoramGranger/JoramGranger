@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Joram Granger
-- 👀 I’m interested in Computer networks & cyber security
-- 🌱 I’m currently learning computer science and CCNA.
-- 💞️ I’m looking to collaborate on any computer project
-- 📫 reach me on joramgranger@outlook.com or joramgranger@gmail.com
+- 👋 Hi, I’m Andrew Jorum
+- 👀 I’m interested in Problem solving using computer science, Artificial Intelligence
+- 🌱 I;m a computer science graduate
+- 💞️ I’m looking to collaborate on any computer science project
+- 📫 reach me on joramandrew@outlook.com
 
 <!---
 JoramGranger/JoramGranger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
